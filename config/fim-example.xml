@@ -1,0 +1,9 @@
+<!--
+Example only.
+Insert the directories element into the appropriate Syscheck section
+of the Windows Wazuh agent configuration.
+
+Replace the example path with your own authorized test directory.
+-->
+
+<directories realtime="yes">C:\Users\i_Node\Desktop\Wazuh\Test</directories> 
